@@ -1,0 +1,7 @@
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\bin\x86\ThermalXP\ThermalController.exe
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\ThermalXP\ResolveAssemblyReference.cache
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\ThermalXP\WindowsFormsApplication1.Form1.resources
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\ThermalXP\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\ThermalXP\GenerateResource.read.1.tlog
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\ThermalXP\GenerateResource.write.1.tlog
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\ThermalXP\ThermalController.exe

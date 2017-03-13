@@ -1,0 +1,786 @@
+2/29/2012 4:23:34 PM
+
+Sent::delete file 1
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 160
+
+Data: 05
+
+CRC: 74 255
+
+
+
+Sent::delete file 2
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 161
+
+Data: 01
+
+CRC: 26 252
+
+
+
+Sent::delete file 3
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 03
+
+CRC: 107 61
+
+
+
+Sent::file pointer
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 160
+
+Data: 05
+
+CRC: 74 255
+
+
+
+Sent::create profile
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 01
+
+CRC: 234 252
+
+
+
+Sent::naming x4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 13 212
+
+Data: 080
+
+CRC: 203 98
+
+
+
+Sent::naming x4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 13 213
+
+Data: 065
+
+CRC: 90 174
+
+
+
+Sent::naming x4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 13 214
+
+Data: 083
+
+CRC: 42 163
+
+
+
+Sent::naming x4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 13 215
+
+Data: 083
+
+CRC: 123 99
+
+
+
+Sent::naming x4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 13 216
+
+Data: 080
+
+CRC: 11 97
+
+
+
+Sent::naming x4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 13 217
+
+Data: 082
+
+CRC: 219 96
+
+
+
+Sent::naming x4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 13 218
+
+Data: 079
+
+CRC: 235 105
+
+
+
+Sent::naming x4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 13 219
+
+Data: 070
+
+CRC: 122 175
+
+
+
+Sent::naming x4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 13 220
+
+Data: 073
+
+CRC: 139 106
+
+
+
+Sent::naming x4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 13 221
+
+Data: 076
+
+CRC: 26 169
+
+
+
+Sent::ramprate1
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 161
+
+Data: 01
+
+CRC: 26 252
+
+
+
+Sent::ramprate1
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 02
+
+CRC: 170 253
+
+
+
+Sent::ramprate1
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 172
+
+Data: 00
+
+CRC: 74 255
+
+
+
+Sent::ramprate1
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 163
+
+Data: 02
+
+CRC: 251 61
+
+
+
+Sent::ramprate1
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 203
+
+Data: 030
+
+CRC: 123 40
+
+
+
+Sent::ramprate1
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 204
+
+Data: 050
+
+CRC: 203 52
+
+
+
+Error in Write:save ramprate1
+System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.ReadByte(Int32 timeout)
+   at System.IO.Ports.SerialStream.ReadByte()
+   at System.IO.Ports.SerialPort.ReadByte()
+   at WindowsFormsApplication1.Form1.GetResponse(Byte[]& response) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1999
+   at WindowsFormsApplication1.Form1.WriteFunction(Byte addy, Byte func, UInt16 registers, Int16 data) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1909
+
+Sent::clear flag
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 00
+
+CRC: 43 60
+
+
+
+Sent::soakstep2
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 161
+
+Data: 02
+
+CRC: 90 253
+
+
+
+Sent::soakstep2
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 02
+
+CRC: 170 253
+
+
+
+Sent::soakstep2
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 172
+
+Data: 00
+
+CRC: 74 255
+
+
+
+Sent::soakstep2
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 163
+
+Data: 03
+
+CRC: 58 253
+
+
+
+Sent::soakstep2
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 170
+
+Data: 03
+
+CRC: 234 255
+
+
+
+Error in Write:save soak2
+System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.ReadByte(Int32 timeout)
+   at System.IO.Ports.SerialStream.ReadByte()
+   at System.IO.Ports.SerialPort.ReadByte()
+   at WindowsFormsApplication1.Form1.GetResponse(Byte[]& response) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1999
+   at WindowsFormsApplication1.Form1.WriteFunction(Byte addy, Byte func, UInt16 registers, Int16 data) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1909
+
+Sent::clear flag
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 00
+
+CRC: 43 60
+
+
+
+Sent::ramprate3
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 161
+
+Data: 03
+
+CRC: 155 61
+
+
+
+Sent::ramprate3
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 02
+
+CRC: 170 253
+
+
+
+Sent::ramprate3
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 172
+
+Data: 00
+
+CRC: 74 255
+
+
+
+Sent::ramprate3
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 163
+
+Data: 02
+
+CRC: 251 61
+
+
+
+Sent::ramprate3
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 203
+
+Data: 030
+
+CRC: 123 40
+
+
+
+Sent::ramprate3
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 204
+
+Data: 255206
+
+CRC: 138 133
+
+
+
+Error in Write:save ramprate3
+System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.ReadByte(Int32 timeout)
+   at System.IO.Ports.SerialStream.ReadByte()
+   at System.IO.Ports.SerialPort.ReadByte()
+   at WindowsFormsApplication1.Form1.GetResponse(Byte[]& response) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1999
+   at WindowsFormsApplication1.Form1.WriteFunction(Byte addy, Byte func, UInt16 registers, Int16 data) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1909
+
+Sent::clear flag
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 00
+
+CRC: 43 60
+
+
+
+Sent::soakstep4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 161
+
+Data: 04
+
+CRC: 218 255
+
+
+
+Sent::soakstep4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 02
+
+CRC: 170 253
+
+
+
+Sent::soakstep4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 172
+
+Data: 00
+
+CRC: 74 255
+
+
+
+Sent::soakstep4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 163
+
+Data: 03
+
+CRC: 58 253
+
+
+
+Sent::soakstep4
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 170
+
+Data: 03
+
+CRC: 234 255
+
+
+
+Error in Write:save soak4
+System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.ReadByte(Int32 timeout)
+   at System.IO.Ports.SerialStream.ReadByte()
+   at System.IO.Ports.SerialPort.ReadByte()
+   at WindowsFormsApplication1.Form1.GetResponse(Byte[]& response) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1999
+   at WindowsFormsApplication1.Form1.WriteFunction(Byte addy, Byte func, UInt16 registers, Int16 data) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1909
+
+Sent::clear flag
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 00
+
+CRC: 43 60
+
+
+
+Sent::jump5
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 161
+
+Data: 05
+
+CRC: 27 63
+
+
+
+Sent::jump5
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 02
+
+CRC: 170 253
+
+
+
+Sent::jump5
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 172
+
+Data: 00
+
+CRC: 74 255
+
+
+
+Sent::jump5
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 163
+
+Data: 04
+
+CRC: 123 63
+
+
+
+Sent::jump5
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 210
+
+Data: 05
+
+CRC: 234 228
+
+
+
+Sent::jump5
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 212
+
+Data: 05
+
+CRC: 10 229
+
+
+
+Error in Write:save jump5
+System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.ReadByte(Int32 timeout)
+   at System.IO.Ports.SerialStream.ReadByte()
+   at System.IO.Ports.SerialPort.ReadByte()
+   at WindowsFormsApplication1.Form1.GetResponse(Byte[]& response) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1999
+   at WindowsFormsApplication1.Form1.WriteFunction(Byte addy, Byte func, UInt16 registers, Int16 data) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1909
+
+Sent::clear flag
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 00
+
+CRC: 43 60
+
+
+
+Sent::end step x3
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 161
+
+Data: 07
+
+CRC: 154 254
+
+
+
+Error in Write:end step x3
+System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.ReadByte(Int32 timeout)
+   at System.IO.Ports.SerialStream.ReadByte()
+   at System.IO.Ports.SerialPort.ReadByte()
+   at WindowsFormsApplication1.Form1.GetResponse(Byte[]& response) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1999
+   at WindowsFormsApplication1.Form1.WriteFunction(Byte addy, Byte func, UInt16 registers, Int16 data) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1909
+
+Error in Write:end step x3
+System.TimeoutException: The operation has timed out.
+   at System.IO.Ports.SerialStream.ReadByte(Int32 timeout)
+   at System.IO.Ports.SerialStream.ReadByte()
+   at System.IO.Ports.SerialPort.ReadByte()
+   at WindowsFormsApplication1.Form1.GetResponse(Byte[]& response) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1999
+   at WindowsFormsApplication1.Form1.WriteFunction(Byte addy, Byte func, UInt16 registers, Int16 data) in C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\Form1.cs:line 1909
+
+Sent::start profile x3
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 160
+
+Data: 05
+
+CRC: 74 255
+
+
+
+Sent::start profile x3
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 161
+
+Data: 01
+
+CRC: 26 252
+
+
+
+Sent::start profile x3
+
+ID: 1
+
+Fcode: 6
+
+Reg/Err: 15 162
+
+Data: 05
+
+CRC: 235 63
+
+
+

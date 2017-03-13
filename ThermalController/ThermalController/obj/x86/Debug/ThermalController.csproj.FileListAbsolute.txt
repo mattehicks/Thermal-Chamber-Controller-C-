@@ -1,0 +1,122 @@
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\bin\Debug\ThermalController.exe
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\bin\Debug\ThermalController.pdb
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\Debug\ThermalController.exe
+C:\Users\Mhicks\documents\visual studio 2010\Projects\ThermalController\ThermalController\obj\x86\Debug\ThermalController.pdb
+F:\ThermalController\ThermalController\obj\x86\Debug\ThermalController.exe
+F:\ThermalController\ThermalController\obj\x86\Debug\ThermalController.pdb
+F:\ThermalController\ThermalController\bin\Debug\ThermalController.exe
+F:\ThermalController\ThermalController\bin\Debug\ThermalController.pdb
+F:\ThermalController\ThermalController\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ThermalController\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\ThermalController\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ThermalController\ThermalController\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ThermalController\ThermalController\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ThermalController\ThermalController\obj\x86\Debug\ThermalController.exe
+E:\ThermalController\ThermalController\obj\x86\Debug\ThermalController.pdb
+E:\ThermalController\ThermalController\bin\Debug\ThermalController.exe
+E:\ThermalController\ThermalController\bin\Debug\ThermalController.pdb
+E:\ThermalController\ThermalController\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ThermalController\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\ThermalController\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ThermalController\ThermalController\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ThermalController\ThermalController\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ThermalController GUI\ThermalController\obj\x86\Debug\ThermalController.exe
+F:\ThermalController GUI\ThermalController\obj\x86\Debug\ThermalController.pdb
+F:\ThermalController GUI\ThermalController\bin\Debug\ThermalController.exe
+F:\ThermalController GUI\ThermalController\bin\Debug\ThermalController.pdb
+F:\ThermalController GUI\ThermalController\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ThermalController GUI\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\ThermalController GUI\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ThermalController GUI\ThermalController\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ThermalController GUI\ThermalController\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\ThermalController.exe
+F:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\ThermalController.pdb
+F:\ThermalController GUI - Copy\ThermalController\bin\Debug\ThermalController.exe
+F:\ThermalController GUI - Copy\ThermalController\bin\Debug\ThermalController.pdb
+F:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\ThermalController.exe
+E:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\ThermalController.pdb
+E:\ThermalController GUI - Copy\ThermalController\bin\Debug\ThermalController.exe
+E:\ThermalController GUI - Copy\ThermalController\bin\Debug\ThermalController.pdb
+E:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\ThermalController.exe
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\ThermalController.pdb
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - Copy\ThermalController\bin\Debug\ThermalController.exe
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - Copy\ThermalController\bin\Debug\ThermalController.pdb
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ThermalController GUI - Copy\ThermalController\obj\x86\Debug\WindowsFormsApplication1.modbusForm.resources
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - new\ThermalController\obj\x86\Debug\ThermalController.exe
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - new\ThermalController\obj\x86\Debug\ThermalController.pdb
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - new\ThermalController\bin\Debug\ThermalController.exe
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - new\ThermalController\bin\Debug\ThermalController.pdb
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - new\ThermalController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - new\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - new\ThermalController\obj\x86\Debug\WindowsFormsApplication1.modbusForm.resources
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - new\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - new\ThermalController\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - new\ThermalController\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\mhicks\Desktop\ThermalController GUI - new\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\ThermalController GUI - new\ThermalController\obj\x86\Debug\ThermalController.exe
+E:\ThermalController GUI - new\ThermalController\obj\x86\Debug\ThermalController.pdb
+E:\ThermalController GUI - new\ThermalController\bin\Debug\ThermalController.exe
+E:\ThermalController GUI - new\ThermalController\bin\Debug\ThermalController.pdb
+E:\ThermalController GUI - new\ThermalController\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ThermalController GUI - new\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\ThermalController GUI - new\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\ThermalController GUI - new\ThermalController\obj\x86\Debug\WindowsFormsApplication1.modbusForm.resources
+E:\ThermalController GUI - new\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\ThermalController GUI - new\ThermalController\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ThermalController GUI - new\ThermalController\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BACKUP Sunday\ThermalController\obj\x86\Debug\ThermalController.exe
+E:\BACKUP Sunday\ThermalController\obj\x86\Debug\ThermalController.pdb
+E:\BACKUP Sunday\ThermalController\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BACKUP Sunday\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\BACKUP Sunday\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+E:\BACKUP Sunday\ThermalController\obj\x86\Debug\WindowsFormsApplication1.modbusForm.resources
+E:\BACKUP Sunday\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\BACKUP Sunday\ThermalController\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\BACKUP Sunday\ThermalController\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\BACKUP Sunday\ThermalController\obj\x86\Debug\ThermalController.csproj.ResolveComReference.cache
+E:\BACKUP Sunday\ThermalController\bin\Debug\ThermalController.exe
+E:\BACKUP Sunday\ThermalController\bin\Debug\ThermalController.pdb
+C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\obj\x86\Debug\ThermalController.csproj.ResolveComReference.cache
+C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\obj\x86\Debug\ThermalController.exe
+C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\obj\x86\Debug\ThermalController.pdb
+C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\bin\Debug\ThermalController.exe
+C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\bin\Debug\ThermalController.pdb
+C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\obj\x86\Debug\WindowsFormsApplication1.modbusForm.resources
+C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\mhicks\Desktop\BACKUP Sunday\ThermalController\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\mhicks\Documents\Main Thermal March\ThermalController\obj\x86\Debug\ThermalController.csproj.ResolveComReference.cache
+C:\Users\mhicks\Documents\Main Thermal March\ThermalController\obj\x86\Debug\ThermalController.exe
+C:\Users\mhicks\Documents\Main Thermal March\ThermalController\obj\x86\Debug\ThermalController.pdb
+C:\Users\mhicks\Documents\Main Thermal March\ThermalController\obj\x86\Debug\ThermalController.csprojResolveAssemblyReference.cache
+C:\Users\mhicks\Documents\Main Thermal March\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\mhicks\Documents\Main Thermal March\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\mhicks\Documents\Main Thermal March\ThermalController\obj\x86\Debug\WindowsFormsApplication1.modbusForm.resources
+C:\Users\mhicks\Documents\Main Thermal March\ThermalController\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\mhicks\Documents\Main Thermal March\ThermalController\obj\x86\Debug\ThermalController.csproj.GenerateResource.Cache
+C:\Users\mhicks\Documents\ThermalController\ThermalController\obj\x86\Debug\ThermalController.csproj.ResolveComReference.cache
+C:\Users\mhicks\Documents\ThermalController\ThermalController\obj\x86\Debug\ThermalController.exe
+C:\Users\mhicks\Documents\ThermalController\ThermalController\obj\x86\Debug\ThermalController.pdb

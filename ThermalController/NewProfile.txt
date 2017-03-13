@@ -1,0 +1,6 @@
+NewProfile
+4
+[ramprate,20,3]
+[ramprate,-5,3]
+[soak,35,3]
+[ramprate,35,3]

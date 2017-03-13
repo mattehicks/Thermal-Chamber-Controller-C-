@@ -1,0 +1,7 @@
+NewProfile
+5
+[ramprate,5,3,0]
+[soak,35,3,0]
+[ramprate,-5,3,0]
+[soak,35,3,0]
+[jump,5,1,5]
