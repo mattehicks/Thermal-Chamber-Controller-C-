@@ -1,2 +1,3 @@
 # Thermal-Chamber-Controller-C-
-TestEquity temperature chamber controller.  Works via parallel or USB interface.   Windows app and source.
+Windows application for controlling industrial applications with a modbus / serial interface.
+Originally designed for Test-Equity Environment Controller.
